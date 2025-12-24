@@ -24,7 +24,7 @@ An AI-powered Streamlit dashboard that predicts mobile phone prices in Pakistan 
 - Matplotlib / Seaborn
 
 ## How to Run
-open command prompt
-pip install streamlit
-python -m streamlit run app.py
-download other libraries if asked
+- open command prompt
+- pip install streamlit
+- python -m streamlit run app.py
+- download other libraries if asked
